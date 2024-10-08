@@ -1,0 +1,24 @@
+h1{
+   
+      color: rgb(3, 70, 3);
+      background-color: aquamarine;
+
+}
+
+h3{
+      color: aquamarine;
+      background-color: rgb(4, 94, 32);
+}
+
+h1[value="1"]{
+      color: whitesmoke;
+      background-color: darkseagreen;
+}
+
+h3[value="2"]{
+      color: #FAF8F1;
+      background-color: #C58940;
+}
+h1[value="6"]{
+      padding: 10px;
+}
